@@ -1,4 +1,4 @@
-index,id, MLS, Price, Latitude, Longitude, LandSize, SizeInterior, Bedrooms, Bathrooms,
+index,id,MLS,Price,Latitude,Longitude,LandSize,SizeInterior,Bedrooms,Bathrooms,
 1,24082655, SK885448,16000,50.224181,-103.446469, 6788 sqft, 800 sqft,2,0, 
 2,24666376, SK902828,16200,50.931103,-102.798347, 5200 sqft, 628 sqft,1,1, 
 3,24927526, SK909809,17900,52.984432,-105.429917, 7416 sqft, 729 sqft,3,1, 
